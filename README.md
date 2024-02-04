@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jez228
 - 💞️ I’m looking to collaborate on good people 
 
-- my default avatar looks like a swimsuit lol
+- my default avatar looks like a swimsuit, lol
 
 <!---
 jez228/jez228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
